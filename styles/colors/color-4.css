@@ -1,0 +1,7 @@
+
+:root
+{
+    --hue: 23; /* This sets the hue to 23 */
+    --main-color: hsl(var(--hue), 43%, 38%);
+    --main-color-alt: hsl(var(--hue), 43%, 35%); /* Adjusted lightness for variation */
+}

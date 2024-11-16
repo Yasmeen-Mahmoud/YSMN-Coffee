@@ -1,0 +1,7 @@
+
+:root
+{
+    --hue: 28;
+    --main-color: hsl(var(--hue), 47%, 54%);
+    --main-color-alt: hsl(var(--hue), 47%, 51%);
+}
